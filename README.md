@@ -1,8 +1,7 @@
 # Taxi-out-prediction
 Context:
-This data was scraped under a Academic Paper under Review by IEEE transportation
+This data was downlaoded from https://www.kaggle.com/datasets/deepankurk/flight-take-off-data-jfk-airport/data
 
-Content:
 Using data from JFK airport from Nov 2019-Dec-2020, predict 'taxi-out' time of a flight using multiple linear regression with sci-kit learn. 'Taxi-out' time is how long a plane spends moving between it's gate and the runway before takeoff. Taxi-out time can impact the cost of the flight.
 
 # Framing the problem
